@@ -1,50 +1,320 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript">
-window.onload = function () {
-	d3.csv("all_offense_count.csv", function(data3) {
-		var arr = [];
-		arr[0]=data3[0].theftCount;
-		arr[1]=data3[0].robberyCount;
-		arr[2]=data3[0].burglaryCount;
-		arr[3]=data3[0].autoTheftCount;
-		arr[4]=data3[0].aggAssaultCount;
-		arr[5]=data3[0].murderCount;
-	var chart = new CanvasJS.Chart("chartContainer",
-	{
-		title:{
-			text: "Crime Rate"
-		},
-		legend: {
-			maxWidth: 350,
-			itemWidth: 120
-		},
-		data: [
-		{
-			type: "pie",
-			showInLegend: true,
-			legendText: "{indexLabel}",
-			dataPoints: [
-				{ y: arr[0], indexLabel: "Theft" },
-				{ y: arr[1], indexLabel: "Robbery" },
-				{ y: arr[2], indexLabel: "Burglary" },
-				{ y: arr[3], indexLabel: "Auto Theft"},
-				{ y: arr[4], indexLabel: "Agg Assualt" },
-				{ y: arr[5], indexLabel: "Murder"},
-				]
-		}
-		]
-	});
-	
-	chart.render();
-	});
+<meta charset="ISO-8859-1">
+<title>Austin Crime Rate - 2015</title>
+<style>
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
 }
-</script>
+
+#map {
+	height: 90%;
+	width: 100%;
+}
+
+h1 {
+	font-family: sans-serif;
+}
+
+#div1 {
+	width: 200px;
+	height: 200px
+}
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+</style>
+<!-- Replace the value of the key parameter with your own API key. -->
+<!-- <script
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAEhL2ohUd7-RRayvmZP-vohmLhoQvgOr8&libraries=visualization"> 
+</script> -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
+<script	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type="text/javascript" src="canvasjs.min.js"></script>
+
+<script>
+	var map, heatmap;
+
+	function initEventBinding() {
+		$("#offense").change(function() {
+			var selectVal = $("#offense").val();
+			if (selectVal == "Robbery") {
+				file = "json/zip_count_Robbery.json";
+			} else if (selectVal == "Burglary") {
+				file = "json/zip_count_Burglary.json";
+			} else if (selectVal == "Auto Theft") {
+				file = "json/zip_count_Auto_Theft.json";
+			} else if (selectVal == "Agg Assault") {
+				file = "json/zip_count_Agg_Assault.json";
+			} else if (selectVal == "Theft") {
+				file = "json/zip_count_Theft.json";
+			} else if (selectVal == "Murder") {
+				file = "json/zip_count_Murder.json";
+			} else {
+				file = "latest_zip_count_coords.json";
+			}
+			//initMap();
+			handleZipChange(file);
+			//clearMarkers();
+		});
+	}
+	$(document).ready(function() {
+		initEventBinding();
+	});
+
+	function initMap() {
+		map = new google.maps.Map(document.getElementById('map'), {
+			center : {
+				lat : 30.2672,
+				lng : -97.7431
+			},
+			zoom : 9
+		});
+
+		var defaultFile = "latest_zip_count_coords.json";
+
+		heatmap = new google.maps.visualization.HeatmapLayer({
+			//data : fetchDataPoints(defaultFile),
+			map : map
+		});
+		handleZipChange(defaultFile);
+		loadZipDropdown();
+	}
+
+	/* function toggleHeatmap() {
+		//alert("inside togglehead");
+		heatmap.setMap(heatmap.getMap() ? null : map);
+	}
+	 */
+	function handleZipChange(file) {
+		fetchDataPoints(file);
+	}
+
+	function setHeatMapData(data) {
+		heatmap.setData(data);
+	}
+
+	function fetchDataPoints(file) {
+		var x = new Array();
+		d3.json(file, function(error, data) {
+			//console.log('New data file loaded: ' + file	+ ' *****************');
+			for (var i = 0; i < data.length; i++) {
+				x[i] = new google.maps.LatLng(data[i].x_coordinate,
+						data[i].y_coordinate);
+			}
+			setHeatMapData(x);
+			//checkStats(file);
+		});
+		document.getElementById("hide").value = file;
+		var type = document.getElementById('offense').options[document.getElementById('offense').selectedIndex].text;
+		if (type == "Select") {
+			document.getElementById("head").innerHTML = "Heatmap with ZIP codes";
+		} else
+			document.getElementById("head").innerHTML = "Heatmap for Offense type - " + type;
+	}
+
+	function checkStats() {
+		var f = document.getElementById("hide").value;
+		var arr = new Array();
+		var arr1 = new Array();
+		var arrx = new Array();
+		var arry = new Array();
+
+		var type;
+		d3.json(f, function(error, data) {
+							for (var i = 0; i < data.length; i++) {
+								if (data[i].Offence.trim() == "Murder") {
+									data[i].points = data[i].count * 60;
+								} else if (data[i].Offence.trim() == "Agg Assault") {
+									data[i].points = data[i].count * 50;
+								} else if (data[i].Offence.trim() == "Auto Theft") {
+									data[i].points = data[i].count * 20;
+								} else if (data[i].Offence.trim() == "Burglary") {
+									data[i].points = data[i].count * 30;
+								} else if (data[i].Offence.trim() == "Robbery") {
+									data[i].points = data[i].count * 40;
+								} else if (data[i].Offence.trim() == "Theft") {
+									data[i].points = data[i].count * 10;
+								} else
+									alert("error - " + error);
+								arr[i] = data[i].points;
+								arr1[i] = data[i].Zip;
+								arrx[i] = data[i].x_coordinate;
+								arry[i] = data[i].y_coordinate;
+								arr.sort(compareNumbers);
+							}
+							var firstTen = new Array();
+							var first = new Array();
+							var firstThreex = new Array();
+							var firstThreey = new Array();
+
+							var lastTen = new Array();
+							var last = new Array();
+							for (var i = 0; i < 10; i++) {
+								firstTen[i] = arr[i];
+								first[i] = arr1[i];
+							}
+
+							showMarkers(firstThreex, firstThreey, arrx, arry, arr1);
+
+							document.getElementById("div1").innerHTML = "Top 10 safest ZIP areas are : \n\n" + first;
+						});
+	}
+
+	var ALL_MARKERS = [];
+	function showMarkers(firstThreex, firstThreey, arrx, arry, arr1) {
+		var labels = '123';
+		var labelIndex = 0;
+		var markers = [];
+		
+		var contentString = '';
+		var x;
+		
+		// remove previous markers
+		for(var i = 0; i < ALL_MARKERS.length; i++) {
+			var marker = ALL_MARKERS[i];
+			marker.setMap(null);
+	    }
+		ALL_MARKERS.splice(0, ALL_MARKERS.length); // empty the array
+		
+		for (var i = 0; i < 3; i++) {
+			firstThreex[i] = arrx[i];
+			firstThreey[i] = arry[i];
+			
+			contentString = '<h3>'+ arr1[i] + '</h3>';
+			var infowindow = new google.maps.InfoWindow({
+		          content: contentString
+		        });
+			
+			var marker = new google.maps.Marker({
+				position : new google.maps.LatLng(firstThreex[i], firstThreey[i]),
+				label: labels[labelIndex++ % labels.length],
+				map : map,
+			});
+			ALL_MARKERS.push(marker);
+			
+			google.maps.event.addListener(marker,'click', (function(marker,content,infowindow){ 
+			    return function() {
+			        infowindow.setContent(content);
+			        infowindow.open(map,marker);
+			    };
+			})(marker,content,infowindow));  
+		}
+	}
+	
+	
+	function compareNumbers(a, b) {
+		return a - b;
+	}
+	
+	function loadZipDropdown() {
+		d3.csv("all_offense_count.csv", function(data3) {
+				data3.forEach(function(i) {
+				i.Zip = +i.Zip;
+			    $('#zip').append($('<option>', { 
+			        value: i.Zip,
+			        text : i.Zip 
+			    }));
+			});
+			
+			$("#zip").change(function () {
+				var str = "";
+			    $("#zip option:selected").each(function() {
+			      str += $(this).text() + " ";
+			      console.log("str - " + str);
+			      showSummary(data3, str);
+			    });
+			  }).change();
+		});
+	}
+	
+	function showSummary(data3, str){
+			var arr = [];
+			var datapointsforzip = [];
+			for(var i=0; i<data3.length; i++){
+				if(str == data3[i].Zip){
+					arr[0]=data3[i].theftCount;
+					arr[1]=data3[i].robberyCount;
+					arr[2]=data3[i].burglaryCount;
+					arr[3]=data3[i].autoTheftCount;
+					arr[4]=data3[i].aggAssaultCount;
+					arr[5]=data3[i].murderCount;
+					datapointsforzip = [
+						{ y: arr[0], indexLabel: "Theft" },
+						{ y: arr[1], indexLabel: "Robbery" },
+						{ y: arr[2], indexLabel: "Burglary" },
+						{ y: arr[3], indexLabel: "Auto Theft"},
+						{ y: arr[4], indexLabel: "Agg Assualt" },
+						{ y: arr[5], indexLabel: "Murder"},
+						];
+				}
+			}
+			
+		var chart = new CanvasJS.Chart("chartContainer",
+		{
+			title:{
+				text: "Austin Crime Rate"
+			},
+			legend: {
+				maxWidth: 350,
+				itemWidth: 120
+			},
+			data: [
+			{
+				type: "pie",
+				showInLegend: true,
+				legendText: "{indexLabel}",
+				dataPoints: datapointsforzip
+			}
+			]
+		});
+		chart.render();
+	}
+</script>
+
+<script
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAEhL2ohUd7-RRayvmZP-vohmLhoQvgOr8&callback=initMap&libraries=visualization"
+	async defer></script>
 </head>
+
 <body>
-<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+	<div id="map"></div>
+	<br />
+	<h3 id="head" align="center"></h3>
+	<input type="text" hidden="hidden" id="hide" />
+	<input type="text" hidden="hidden" id="offenceHide" />
+	<table>
+		<tr>
+			<td><select id="offense">
+					<option selected="selected">Select</option>
+					<option id="robbery">Robbery</option>
+					<option id="burglary">Burglary</option>
+					<option id="autoTheft">Auto Theft</option>
+					<option id="aggAssualt">Agg Assault</option>
+					<option id="theft">Theft</option>
+					<option id="murder">Murder</option>
+			</select></td>
+			<td></td>
+			<td><input type="button" id="checkButton" name="checkButton"
+				value="Check" onclick="checkStats()" /></td>
+		</tr>
+		<tr>
+			<td><select id="zip">
+					<option selected="selected">Select</option>
+			</select></td>
+		</tr>
+	</table>
+	<div id="div1"></div>
+	<div id="chartContainer" style="border: solid; width: 60%; height: 500px;">
+	</div>
 </body>
 </html>

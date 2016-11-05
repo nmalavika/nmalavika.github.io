@@ -1,0 +1,93 @@
+[
+	{
+		"Zip" : 78701,
+		"Offence" : "Murder",
+		"count" : 1,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : "Murder",
+		"count" : 3,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : "Murder",
+		"count" : 1,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : "Murder",
+		"count" : 1,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : "Murder",
+		"count" : 1,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : "Murder",
+		"count" : 1,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : "Murder",
+		"count" : 1,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : "Murder",
+		"count" : 2,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : "Murder",
+		"count" : 4,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : "Murder",
+		"count" : 3,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : "Murder",
+		"count" : 3,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : "Murder",
+		"count" : 1,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : "Murder",
+		"count" : 1,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	}
+]

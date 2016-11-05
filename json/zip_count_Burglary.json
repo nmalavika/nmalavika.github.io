@@ -1,0 +1,296 @@
+[
+	{
+		"Zip" : 78613,
+		"Offence" : "Burglary",
+		"count" : 8,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : "Burglary",
+		"count" : 53,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78652,
+		"Offence" : "Burglary",
+		"count" : 2,
+		"x_coordinate" : "30.1359",
+		"y_coordinate" : "-97.8776"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : "Burglary",
+		"count" : 4,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : "Burglary",
+		"count" : 16,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : "Burglary",
+		"count" : 79,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : "Burglary",
+		"count" : 208,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : "Burglary",
+		"count" : 78,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : "Burglary",
+		"count" : 293,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : "Burglary",
+		"count" : 108,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : "Burglary",
+		"count" : 41,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78719,
+		"Offence" : "Burglary",
+		"count" : 2,
+		"x_coordinate" : "30.159",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : "Burglary",
+		"count" : 102,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : "Burglary",
+		"count" : 39,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : "Burglary",
+		"count" : 331,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : "Burglary",
+		"count" : 104,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : "Burglary",
+		"count" : 4,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : "Burglary",
+		"count" : 34,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : "Burglary",
+		"count" : 97,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : "Burglary",
+		"count" : 68,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78730,
+		"Offence" : "Burglary",
+		"count" : 5,
+		"x_coordinate" : "30.3733",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : "Burglary",
+		"count" : 58,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : "Burglary",
+		"count" : 59,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78736,
+		"Offence" : "Burglary",
+		"count" : 18,
+		"x_coordinate" : "30.2521",
+		"y_coordinate" : "-97.9484"
+	},
+	{
+		"Zip" : 78739,
+		"Offence" : "Burglary",
+		"count" : 19,
+		"x_coordinate" : "30.1859",
+		"y_coordinate" : "-97.9048"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : "Burglary",
+		"count" : 429,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : "Burglary",
+		"count" : 5,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : "Burglary",
+		"count" : 312,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : "Burglary",
+		"count" : 377,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : "Burglary",
+		"count" : 54,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : "Burglary",
+		"count" : 75,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : "Burglary",
+		"count" : 137,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : "Burglary",
+		"count" : 71,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : "Burglary",
+		"count" : 59,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : "Burglary",
+		"count" : 95,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : "Burglary",
+		"count" : 175,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : "Burglary",
+		"count" : 449,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : "Burglary",
+		"count" : 90,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : "Burglary",
+		"count" : 65,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : "Burglary",
+		"count" : 157,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : "Burglary",
+		"count" : 365,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : "Burglary",
+		"count" : 175,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	}
+]

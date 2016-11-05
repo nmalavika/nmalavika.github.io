@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script type="text/javascript">
+window.onload = function () {
+	d3.csv("all_offense_count.csv", function(data3) {
+		var arr = [];
+		arr[0]=data3[0].theftCount;
+		arr[1]=data3[0].robberyCount;
+		arr[2]=data3[0].burglaryCount;
+		arr[3]=data3[0].autoTheftCount;
+		arr[4]=data3[0].aggAssaultCount;
+		arr[5]=data3[0].murderCount;
+	var chart = new CanvasJS.Chart("chartContainer",
+	{
+		title:{
+			text: "Crime Rate"
+		},
+		legend: {
+			maxWidth: 350,
+			itemWidth: 120
+		},
+		data: [
+		{
+			type: "pie",
+			showInLegend: true,
+			legendText: "{indexLabel}",
+			dataPoints: [
+				{ y: arr[0], indexLabel: "Theft" },
+				{ y: arr[1], indexLabel: "Robbery" },
+				{ y: arr[2], indexLabel: "Burglary" },
+				{ y: arr[3], indexLabel: "Auto Theft"},
+				{ y: arr[4], indexLabel: "Agg Assualt" },
+				{ y: arr[5], indexLabel: "Murder"},
+				]
+		}
+		]
+	});
+	
+	chart.render();
+	});
+}
+</script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script type="text/javascript" src="canvasjs.min.js"></script>
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+</body>
+</html>

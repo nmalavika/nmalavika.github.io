@@ -1,0 +1,289 @@
+[
+	{
+		"Zip" : 78613,
+		"Offence" : "Auto Theft",
+		"count" : 6,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : "Auto Theft",
+		"count" : 24,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : "Auto Theft",
+		"count" : 1,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : "Auto Theft",
+		"count" : 7,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : "Auto Theft",
+		"count" : 72,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : "Auto Theft",
+		"count" : 81,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : "Auto Theft",
+		"count" : 23,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : "Auto Theft",
+		"count" : 157,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : "Auto Theft",
+		"count" : 78,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : "Auto Theft",
+		"count" : 8,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78719,
+		"Offence" : "Auto Theft",
+		"count" : 37,
+		"x_coordinate" : "30.159",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : "Auto Theft",
+		"count" : 23,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : "Auto Theft",
+		"count" : 23,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : "Auto Theft",
+		"count" : 94,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : "Auto Theft",
+		"count" : 37,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : "Auto Theft",
+		"count" : 1,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : "Auto Theft",
+		"count" : 9,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : "Auto Theft",
+		"count" : 27,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : "Auto Theft",
+		"count" : 25,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78730,
+		"Offence" : "Auto Theft",
+		"count" : 2,
+		"x_coordinate" : "30.3733",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : "Auto Theft",
+		"count" : 17,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : "Auto Theft",
+		"count" : 14,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78736,
+		"Offence" : "Auto Theft",
+		"count" : 1,
+		"x_coordinate" : "30.2521",
+		"y_coordinate" : "-97.9484"
+	},
+	{
+		"Zip" : 78739,
+		"Offence" : "Auto Theft",
+		"count" : 7,
+		"x_coordinate" : "30.1859",
+		"y_coordinate" : "-97.9048"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : "Auto Theft",
+		"count" : 162,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : "Auto Theft",
+		"count" : 2,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : "Auto Theft",
+		"count" : 131,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : "Auto Theft",
+		"count" : 143,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : "Auto Theft",
+		"count" : 32,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : "Auto Theft",
+		"count" : 18,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : "Auto Theft",
+		"count" : 58,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : "Auto Theft",
+		"count" : 40,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : "Auto Theft",
+		"count" : 10,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : "Auto Theft",
+		"count" : 51,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : "Auto Theft",
+		"count" : 86,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : "Auto Theft",
+		"count" : 170,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : "Auto Theft",
+		"count" : 24,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : "Auto Theft",
+		"count" : 17,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : "Auto Theft",
+		"count" : 61,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : "Auto Theft",
+		"count" : 176,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : "Auto Theft",
+		"count" : 53,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	}
+]

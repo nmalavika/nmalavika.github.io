@@ -1,1 +1,0 @@
-# nmalavika.github.io

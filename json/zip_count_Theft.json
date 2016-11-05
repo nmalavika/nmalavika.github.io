@@ -1,0 +1,331 @@
+[
+	{
+		"Zip" : 78613,
+		"Offence" : "Theft",
+		"count" : 366,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : "Theft",
+		"count" : 166,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78652,
+		"Offence" : "Theft",
+		"count" : 11,
+		"x_coordinate" : "30.1359",
+		"y_coordinate" : "-97.8776"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : "Theft",
+		"count" : 19,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : "Theft",
+		"count" : 82,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : "Theft",
+		"count" : 1718,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : "Theft",
+		"count" : 1211,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : "Theft",
+		"count" : 610,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : "Theft",
+		"count" : 1974,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : "Theft",
+		"count" : 1097,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78712,
+		"Offence" : "Theft",
+		"count" : 2,
+		"x_coordinate" : "30.2835",
+		"y_coordinate" : "-97.7349"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : "Theft",
+		"count" : 176,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78719,
+		"Offence" : "Theft",
+		"count" : 144,
+		"x_coordinate" : "30.159",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : "Theft",
+		"count" : 288,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : "Theft",
+		"count" : 239,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : "Theft",
+		"count" : 1472,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : "Theft",
+		"count" : 320,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : "Theft",
+		"count" : 36,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : "Theft",
+		"count" : 171,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : "Theft",
+		"count" : 383,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78728,
+		"Offence" : "Theft",
+		"count" : 12,
+		"x_coordinate" : "30.4571",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : "Theft",
+		"count" : 368,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78730,
+		"Offence" : "Theft",
+		"count" : 39,
+		"x_coordinate" : "30.3733",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : "Theft",
+		"count" : 471,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78732,
+		"Offence" : "Theft",
+		"count" : 1,
+		"x_coordinate" : "30.3789",
+		"y_coordinate" : "-97.8924"
+	},
+	{
+		"Zip" : 78733,
+		"Offence" : "Theft",
+		"count" : 1,
+		"x_coordinate" : "30.3315",
+		"y_coordinate" : "-97.8667"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : "Theft",
+		"count" : 200,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78736,
+		"Offence" : "Theft",
+		"count" : 49,
+		"x_coordinate" : "30.2521",
+		"y_coordinate" : "-97.9484"
+	},
+	{
+		"Zip" : 78737,
+		"Offence" : "Theft",
+		"count" : 2,
+		"x_coordinate" : "30.182",
+		"y_coordinate" : "-97.9702"
+	},
+	{
+		"Zip" : 78739,
+		"Offence" : "Theft",
+		"count" : 157,
+		"x_coordinate" : "30.1859",
+		"y_coordinate" : "-97.9048"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : "Theft",
+		"count" : 1960,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : "Theft",
+		"count" : 17,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : "Theft",
+		"count" : 1256,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : "Theft",
+		"count" : 1699,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : "Theft",
+		"count" : 710,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : "Theft",
+		"count" : 156,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : "Theft",
+		"count" : 1266,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : "Theft",
+		"count" : 685,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : "Theft",
+		"count" : 324,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : "Theft",
+		"count" : 728,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : "Theft",
+		"count" : 770,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : "Theft",
+		"count" : 2526,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : "Theft",
+		"count" : 280,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : "Theft",
+		"count" : 257,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : "Theft",
+		"count" : 908,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : "Theft",
+		"count" : 1721,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : "Theft",
+		"count" : 1128,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	}
+]

@@ -1,0 +1,268 @@
+[
+	{
+		"Zip" : 78613,
+		"Offence" : "Robbery",
+		"count" : 7,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : "Robbery",
+		"count" : 6,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : "Robbery",
+		"count" : 1,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : "Robbery",
+		"count" : 3,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : "Robbery",
+		"count" : 89,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : "Robbery",
+		"count" : 52,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : "Robbery",
+		"count" : 8,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : "Robbery",
+		"count" : 44,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : "Robbery",
+		"count" : 15,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78712,
+		"Offence" : "Robbery",
+		"count" : 1,
+		"x_coordinate" : "30.2835",
+		"y_coordinate" : "-97.7349"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : "Robbery",
+		"count" : 1,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : "Robbery",
+		"count" : 14,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : "Robbery",
+		"count" : 12,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : "Robbery",
+		"count" : 73,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : "Robbery",
+		"count" : 22,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : "Robbery",
+		"count" : 1,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : "Robbery",
+		"count" : 8,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : "Robbery",
+		"count" : 4,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : "Robbery",
+		"count" : 9,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : "Robbery",
+		"count" : 3,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : "Robbery",
+		"count" : 2,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : "Robbery",
+		"count" : 128,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : "Robbery",
+		"count" : 2,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : "Robbery",
+		"count" : 51,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : "Robbery",
+		"count" : 34,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : "Robbery",
+		"count" : 10,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : "Robbery",
+		"count" : 1,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : "Robbery",
+		"count" : 21,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : "Robbery",
+		"count" : 11,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : "Robbery",
+		"count" : 3,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : "Robbery",
+		"count" : 14,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : "Robbery",
+		"count" : 45,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : "Robbery",
+		"count" : 100,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : "Robbery",
+		"count" : 3,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : "Robbery",
+		"count" : 5,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : "Robbery",
+		"count" : 19,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : "Robbery",
+		"count" : 93,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : "Robbery",
+		"count" : 16,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	}
+]

@@ -1,0 +1,1563 @@
+[
+	{
+		"Zip" : 78613,
+		"Offence" : Agg Assault,
+		"count" : 1,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78613,
+		"Offence" : Auto Theft,
+		"count" : 6,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78613,
+		"Offence" : Burglary,
+		"count" : 8,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78613,
+		"Offence" : Robbery,
+		"count" : 7,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78613,
+		"Offence" : Theft,
+		"count" : 366,
+		"x_coordinate" : "30.5119",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : Agg Assault,
+		"count" : 26,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : Auto Theft,
+		"count" : 24,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : Burglary,
+		"count" : 53,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : Robbery,
+		"count" : 6,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78617,
+		"Offence" : Theft,
+		"count" : 166,
+		"x_coordinate" : "30.1472",
+		"y_coordinate" : "-97.5897"
+	},
+	{
+		"Zip" : 78652,
+		"Offence" : Burglary,
+		"count" : 2,
+		"x_coordinate" : "30.1359",
+		"y_coordinate" : "-97.8776"
+	},
+	{
+		"Zip" : 78652,
+		"Offence" : Theft,
+		"count" : 11,
+		"x_coordinate" : "30.1359",
+		"y_coordinate" : "-97.8776"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : Agg Assault,
+		"count" : 1,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : Auto Theft,
+		"count" : 1,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : Burglary,
+		"count" : 4,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : Robbery,
+		"count" : 1,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78653,
+		"Offence" : Theft,
+		"count" : 19,
+		"x_coordinate" : "30.3332",
+		"y_coordinate" : "-97.5464"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : Agg Assault,
+		"count" : 6,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : Auto Theft,
+		"count" : 7,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : Burglary,
+		"count" : 16,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : Robbery,
+		"count" : 3,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78660,
+		"Offence" : Theft,
+		"count" : 82,
+		"x_coordinate" : "30.4332",
+		"y_coordinate" : "-97.6006"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : Agg Assault,
+		"count" : 105,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : Auto Theft,
+		"count" : 72,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : Burglary,
+		"count" : 79,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : Murder,
+		"count" : 1,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : Robbery,
+		"count" : 89,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78701,
+		"Offence" : Theft,
+		"count" : 1718,
+		"x_coordinate" : "30.2729",
+		"y_coordinate" : "-97.7444"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : Agg Assault,
+		"count" : 98,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : Auto Theft,
+		"count" : 81,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : Burglary,
+		"count" : 208,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : Murder,
+		"count" : 3,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : Robbery,
+		"count" : 52,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78702,
+		"Offence" : Theft,
+		"count" : 1211,
+		"x_coordinate" : "30.2604",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : Agg Assault,
+		"count" : 10,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : Auto Theft,
+		"count" : 23,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : Burglary,
+		"count" : 78,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : Robbery,
+		"count" : 8,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78703,
+		"Offence" : Theft,
+		"count" : 610,
+		"x_coordinate" : "30.2915",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : Agg Assault,
+		"count" : 79,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : Auto Theft,
+		"count" : 157,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : Burglary,
+		"count" : 293,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : Robbery,
+		"count" : 44,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78704,
+		"Offence" : Theft,
+		"count" : 1974,
+		"x_coordinate" : "30.2457",
+		"y_coordinate" : "-97.7688"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : Agg Assault,
+		"count" : 34,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : Auto Theft,
+		"count" : 78,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : Burglary,
+		"count" : 108,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : Murder,
+		"count" : 1,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : Robbery,
+		"count" : 15,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78705,
+		"Offence" : Theft,
+		"count" : 1097,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78712,
+		"Offence" : Robbery,
+		"count" : 1,
+		"x_coordinate" : "30.2835",
+		"y_coordinate" : "-97.7349"
+	},
+	{
+		"Zip" : 78712,
+		"Offence" : Theft,
+		"count" : 2,
+		"x_coordinate" : "30.2835",
+		"y_coordinate" : "-97.7349"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : Agg Assault,
+		"count" : 10,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : Auto Theft,
+		"count" : 8,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : Burglary,
+		"count" : 41,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : Robbery,
+		"count" : 1,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78717,
+		"Offence" : Theft,
+		"count" : 176,
+		"x_coordinate" : "30.4917",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78719,
+		"Offence" : Agg Assault,
+		"count" : 3,
+		"x_coordinate" : "30.159",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78719,
+		"Offence" : Auto Theft,
+		"count" : 37,
+		"x_coordinate" : "30.159",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78719,
+		"Offence" : Burglary,
+		"count" : 2,
+		"x_coordinate" : "30.159",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78719,
+		"Offence" : Theft,
+		"count" : 144,
+		"x_coordinate" : "30.159",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : Agg Assault,
+		"count" : 50,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : Auto Theft,
+		"count" : 23,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : Burglary,
+		"count" : 102,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : Murder,
+		"count" : 1,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : Robbery,
+		"count" : 14,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78721,
+		"Offence" : Theft,
+		"count" : 288,
+		"x_coordinate" : "30.2737",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : Agg Assault,
+		"count" : 16,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : Auto Theft,
+		"count" : 23,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : Burglary,
+		"count" : 39,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : Robbery,
+		"count" : 12,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78722,
+		"Offence" : Theft,
+		"count" : 239,
+		"x_coordinate" : "30.292",
+		"y_coordinate" : "-97.7118"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : Agg Assault,
+		"count" : 128,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : Auto Theft,
+		"count" : 94,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : Burglary,
+		"count" : 331,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : Murder,
+		"count" : 1,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : Robbery,
+		"count" : 73,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78723,
+		"Offence" : Theft,
+		"count" : 1472,
+		"x_coordinate" : "30.3081",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : Agg Assault,
+		"count" : 65,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : Auto Theft,
+		"count" : 37,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : Burglary,
+		"count" : 104,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : Robbery,
+		"count" : 22,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78724,
+		"Offence" : Theft,
+		"count" : 320,
+		"x_coordinate" : "30.2944",
+		"y_coordinate" : "-97.6223"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : Agg Assault,
+		"count" : 2,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : Auto Theft,
+		"count" : 1,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : Burglary,
+		"count" : 4,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : Robbery,
+		"count" : 1,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78725,
+		"Offence" : Theft,
+		"count" : 36,
+		"x_coordinate" : "30.2317",
+		"y_coordinate" : "-97.6168"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : Agg Assault,
+		"count" : 10,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : Auto Theft,
+		"count" : 9,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : Burglary,
+		"count" : 34,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : Robbery,
+		"count" : 8,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78726,
+		"Offence" : Theft,
+		"count" : 171,
+		"x_coordinate" : "30.4191",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : Agg Assault,
+		"count" : 23,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : Auto Theft,
+		"count" : 27,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : Burglary,
+		"count" : 97,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : Robbery,
+		"count" : 4,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78727,
+		"Offence" : Theft,
+		"count" : 383,
+		"x_coordinate" : "30.4322",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78728,
+		"Offence" : Agg Assault,
+		"count" : 1,
+		"x_coordinate" : "30.4571",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78728,
+		"Offence" : Theft,
+		"count" : 12,
+		"x_coordinate" : "30.4571",
+		"y_coordinate" : "-97.6819"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : Agg Assault,
+		"count" : 19,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : Auto Theft,
+		"count" : 25,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : Burglary,
+		"count" : 68,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : Robbery,
+		"count" : 9,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78729,
+		"Offence" : Theft,
+		"count" : 368,
+		"x_coordinate" : "30.4647",
+		"y_coordinate" : "-97.7471"
+	},
+	{
+		"Zip" : 78730,
+		"Offence" : Agg Assault,
+		"count" : 1,
+		"x_coordinate" : "30.3733",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78730,
+		"Offence" : Auto Theft,
+		"count" : 2,
+		"x_coordinate" : "30.3733",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78730,
+		"Offence" : Burglary,
+		"count" : 5,
+		"x_coordinate" : "30.3733",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78730,
+		"Offence" : Theft,
+		"count" : 39,
+		"x_coordinate" : "30.3733",
+		"y_coordinate" : "-97.8395"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : Agg Assault,
+		"count" : 11,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : Auto Theft,
+		"count" : 17,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : Burglary,
+		"count" : 58,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : Murder,
+		"count" : 1,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : Robbery,
+		"count" : 3,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78731,
+		"Offence" : Theft,
+		"count" : 471,
+		"x_coordinate" : "30.3542",
+		"y_coordinate" : "-97.7743"
+	},
+	{
+		"Zip" : 78732,
+		"Offence" : Theft,
+		"count" : 1,
+		"x_coordinate" : "30.3789",
+		"y_coordinate" : "-97.8924"
+	},
+	{
+		"Zip" : 78733,
+		"Offence" : Theft,
+		"count" : 1,
+		"x_coordinate" : "30.3315",
+		"y_coordinate" : "-97.8667"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : Agg Assault,
+		"count" : 22,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : Auto Theft,
+		"count" : 14,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : Burglary,
+		"count" : 59,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : Robbery,
+		"count" : 2,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78735,
+		"Offence" : Theft,
+		"count" : 200,
+		"x_coordinate" : "30.2573",
+		"y_coordinate" : "-97.8613"
+	},
+	{
+		"Zip" : 78736,
+		"Offence" : Agg Assault,
+		"count" : 3,
+		"x_coordinate" : "30.2521",
+		"y_coordinate" : "-97.9484"
+	},
+	{
+		"Zip" : 78736,
+		"Offence" : Auto Theft,
+		"count" : 1,
+		"x_coordinate" : "30.2521",
+		"y_coordinate" : "-97.9484"
+	},
+	{
+		"Zip" : 78736,
+		"Offence" : Burglary,
+		"count" : 18,
+		"x_coordinate" : "30.2521",
+		"y_coordinate" : "-97.9484"
+	},
+	{
+		"Zip" : 78736,
+		"Offence" : Theft,
+		"count" : 49,
+		"x_coordinate" : "30.2521",
+		"y_coordinate" : "-97.9484"
+	},
+	{
+		"Zip" : 78737,
+		"Offence" : Agg Assault,
+		"count" : 2,
+		"x_coordinate" : "30.182",
+		"y_coordinate" : "-97.9702"
+	},
+	{
+		"Zip" : 78737,
+		"Offence" : Theft,
+		"count" : 2,
+		"x_coordinate" : "30.182",
+		"y_coordinate" : "-97.9702"
+	},
+	{
+		"Zip" : 78739,
+		"Offence" : Auto Theft,
+		"count" : 7,
+		"x_coordinate" : "30.1859",
+		"y_coordinate" : "-97.9048"
+	},
+	{
+		"Zip" : 78739,
+		"Offence" : Burglary,
+		"count" : 19,
+		"x_coordinate" : "30.1859",
+		"y_coordinate" : "-97.9048"
+	},
+	{
+		"Zip" : 78739,
+		"Offence" : Theft,
+		"count" : 157,
+		"x_coordinate" : "30.1859",
+		"y_coordinate" : "-97.9048"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : Agg Assault,
+		"count" : 239,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : Auto Theft,
+		"count" : 162,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : Burglary,
+		"count" : 429,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : Murder,
+		"count" : 1,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : Robbery,
+		"count" : 128,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78741,
+		"Offence" : Theft,
+		"count" : 1960,
+		"x_coordinate" : "30.2259",
+		"y_coordinate" : "-97.7145"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : Agg Assault,
+		"count" : 4,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : Auto Theft,
+		"count" : 2,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : Burglary,
+		"count" : 5,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : Robbery,
+		"count" : 2,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78742,
+		"Offence" : Theft,
+		"count" : 17,
+		"x_coordinate" : "30.2406",
+		"y_coordinate" : "-97.6602"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : Agg Assault,
+		"count" : 142,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : Auto Theft,
+		"count" : 131,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : Burglary,
+		"count" : 312,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : Murder,
+		"count" : 2,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : Robbery,
+		"count" : 51,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78744,
+		"Offence" : Theft,
+		"count" : 1256,
+		"x_coordinate" : "30.18",
+		"y_coordinate" : "-97.73"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : Agg Assault,
+		"count" : 141,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : Auto Theft,
+		"count" : 143,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : Burglary,
+		"count" : 377,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : Murder,
+		"count" : 4,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : Robbery,
+		"count" : 34,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78745,
+		"Offence" : Theft,
+		"count" : 1699,
+		"x_coordinate" : "30.2154",
+		"y_coordinate" : "-97.796"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : Agg Assault,
+		"count" : 5,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : Auto Theft,
+		"count" : 32,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : Burglary,
+		"count" : 54,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : Robbery,
+		"count" : 10,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78746,
+		"Offence" : Theft,
+		"count" : 710,
+		"x_coordinate" : "30.2962",
+		"y_coordinate" : "-97.8299"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : Agg Assault,
+		"count" : 21,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : Auto Theft,
+		"count" : 18,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : Burglary,
+		"count" : 75,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : Robbery,
+		"count" : 1,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78747,
+		"Offence" : Theft,
+		"count" : 156,
+		"x_coordinate" : "30.1275",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : Agg Assault,
+		"count" : 41,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : Auto Theft,
+		"count" : 58,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : Burglary,
+		"count" : 137,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : Robbery,
+		"count" : 21,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78748,
+		"Offence" : Theft,
+		"count" : 1266,
+		"x_coordinate" : "30.1682",
+		"y_coordinate" : "-97.8178"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : Agg Assault,
+		"count" : 28,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : Auto Theft,
+		"count" : 40,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : Burglary,
+		"count" : 71,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : Robbery,
+		"count" : 11,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78749,
+		"Offence" : Theft,
+		"count" : 685,
+		"x_coordinate" : "30.2175",
+		"y_coordinate" : "-97.8558"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : Agg Assault,
+		"count" : 13,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : Auto Theft,
+		"count" : 10,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : Burglary,
+		"count" : 59,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : Robbery,
+		"count" : 3,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78750,
+		"Offence" : Theft,
+		"count" : 324,
+		"x_coordinate" : "30.4271",
+		"y_coordinate" : "-97.8014"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : Agg Assault,
+		"count" : 24,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : Auto Theft,
+		"count" : 51,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : Burglary,
+		"count" : 95,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : Robbery,
+		"count" : 14,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78751,
+		"Offence" : Theft,
+		"count" : 728,
+		"x_coordinate" : "30.3056",
+		"y_coordinate" : "-97.7254"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : Agg Assault,
+		"count" : 81,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : Auto Theft,
+		"count" : 86,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : Burglary,
+		"count" : 175,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : Murder,
+		"count" : 3,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : Robbery,
+		"count" : 45,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78752,
+		"Offence" : Theft,
+		"count" : 770,
+		"x_coordinate" : "30.3317",
+		"y_coordinate" : "-97.7052"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : Agg Assault,
+		"count" : 183,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : Auto Theft,
+		"count" : 170,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : Burglary,
+		"count" : 449,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : Murder,
+		"count" : 3,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : Robbery,
+		"count" : 100,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78753,
+		"Offence" : Theft,
+		"count" : 2526,
+		"x_coordinate" : "30.389",
+		"y_coordinate" : "-97.6711"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : Agg Assault,
+		"count" : 21,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : Auto Theft,
+		"count" : 24,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : Burglary,
+		"count" : 90,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : Murder,
+		"count" : 1,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : Robbery,
+		"count" : 3,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78754,
+		"Offence" : Theft,
+		"count" : 280,
+		"x_coordinate" : "30.3559",
+		"y_coordinate" : "-97.6494"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : Agg Assault,
+		"count" : 6,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : Auto Theft,
+		"count" : 17,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : Burglary,
+		"count" : 65,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : Robbery,
+		"count" : 5,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78756,
+		"Offence" : Theft,
+		"count" : 257,
+		"x_coordinate" : "30.3248",
+		"y_coordinate" : "-97.739"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : Agg Assault,
+		"count" : 35,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : Auto Theft,
+		"count" : 61,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : Burglary,
+		"count" : 157,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : Robbery,
+		"count" : 19,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78757,
+		"Offence" : Theft,
+		"count" : 908,
+		"x_coordinate" : "30.3568",
+		"y_coordinate" : "-97.7308"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : Agg Assault,
+		"count" : 165,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : Auto Theft,
+		"count" : 176,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : Burglary,
+		"count" : 365,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : Murder,
+		"count" : 1,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : Robbery,
+		"count" : 93,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78758,
+		"Offence" : Theft,
+		"count" : 1721,
+		"x_coordinate" : "30.3871",
+		"y_coordinate" : "-97.7037"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : Agg Assault,
+		"count" : 24,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : Auto Theft,
+		"count" : 53,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : Burglary,
+		"count" : 175,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : Robbery,
+		"count" : 16,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	},
+	{
+		"Zip" : 78759,
+		"Offence" : Theft,
+		"count" : 1128,
+		"x_coordinate" : "30.4014",
+		"y_coordinate" : "-97.7525"
+	}
+]

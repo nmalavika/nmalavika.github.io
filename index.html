@@ -21,7 +21,7 @@ h1 {
 
 #div1 {
 	width: 200px;
-	height: 200px
+	height: 100px
 }
 
 .arc text {
@@ -105,6 +105,7 @@ h1 {
 
 	function fetchDataPoints(file) {
 		var x = new Array();
+		var y = new Array();
 		d3.json(file, function(error, data) {
 			//console.log('New data file loaded: ' + file	+ ' *****************');
 			for (var i = 0; i < data.length; i++) {
@@ -243,17 +244,17 @@ h1 {
 			for(var i=0; i<data3.length; i++){
 				if(str == data3[i].Zip){
 					arr[0]=data3[i].theftCount;
-					arr[1]=data3[i].robberyCount;
+					arr[1]=data3[i].aggAssaultCount;
 					arr[2]=data3[i].burglaryCount;
 					arr[3]=data3[i].autoTheftCount;
-					arr[4]=data3[i].aggAssaultCount;
+					arr[4]=data3[i].robberyCount;
 					arr[5]=data3[i].murderCount;
 					datapointsforzip = [
 						{ y: arr[0], indexLabel: "Theft" },
-						{ y: arr[1], indexLabel: "Robbery" },
+						{ y: arr[1], indexLabel: "Agg Assualt" },
 						{ y: arr[2], indexLabel: "Burglary" },
 						{ y: arr[3], indexLabel: "Auto Theft"},
-						{ y: arr[4], indexLabel: "Agg Assualt" },
+						{ y: arr[4], indexLabel: "Robbery" },
 						{ y: arr[5], indexLabel: "Murder"},
 						];
 				}
@@ -294,6 +295,9 @@ h1 {
 	<input type="text" hidden="hidden" id="offenceHide" />
 	<table>
 		<tr>
+			<td>
+				<label>Offence Type</label>
+			</td>
 			<td><select id="offense">
 					<option selected="selected">Select</option>
 					<option id="robbery">Robbery</option>
@@ -308,13 +312,17 @@ h1 {
 				value="Check" onclick="checkStats()" /></td>
 		</tr>
 		<tr>
+			<td>
+				<label>ZIP</label>
+			</td>
 			<td><select id="zip">
 					<option selected="selected">Select</option>
 			</select></td>
 		</tr>
 	</table>
+	<br/>
 	<div id="div1"></div>
-	<div id="chartContainer" style="border: solid; width: 60%; height: 500px;">
+	<div id="chartContainer" style="border: solid; width: 50%; height: 600px;">
 	</div>
 </body>
 </html>
